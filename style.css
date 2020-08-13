@@ -21,7 +21,8 @@ html{
 .navbar-brand {
     width: 150px ;
     margin-left: 30px ;
-    color:#fff !important
+    color:#fff !important;
+    font-size: 0.8rem !important;
 }
 .navbar-toggler {
     border : none !important;
